@@ -329,6 +329,8 @@ td{
 .attention{
   width:90%;
   margin:auto;
+    font-family: 'Rokkitt', serif;
+    font-size:20px;
 }
 
 .pdfbox{
@@ -701,8 +703,10 @@ td{
 }
 
 .attention{
-  width:60%;
+  width:90%;
   margin:auto;
+    font-family: 'Rokkitt', serif;
+    font-size:20px;
 }
 
 .pdfbox{
@@ -1075,6 +1079,8 @@ td{
 .attention{
   width:60%;
   margin:auto;
+    font-family: 'Rokkitt', serif;
+    font-size:20px;
 }
 
 .pdfbox{
@@ -1454,6 +1460,8 @@ td{
 .attention{
   width:60%;
   margin:auto;
+    font-family: 'Rokkitt', serif;
+    font-size:20px;
 }
 
 .pdfbox{
